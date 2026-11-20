@@ -1,8 +1,8 @@
 # GTA VI Trophy Rarity Forecast
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)](main.py)
+[![make.fun · gta6-trophy-rarity-forecast-01](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/jolly-heron-77-5419/gta6-trophy-rarity-forecast-01/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/jolly-heron-77-5419/gta6-trophy-rarity-forecast-01/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
 
 Forecasts, for every trophy of Grand Theft Auto VI on PlayStation 5, the
 percent of the players Exophase tracks who will have earned it at
